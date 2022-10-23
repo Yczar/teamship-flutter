@@ -77,11 +77,9 @@
 
 # 🧐 Project philosophy
 
-> The Well app is a mental health and mindfulness app built on top of the science of positive psychology. The Well app is more than just another meditation or journaling app; it encourages you to enhance and reflect on your day with structured, guided activities.
->
-> There are 5 daily tasks that the Well app asks you to complete each day: record 3 gratitudes, write a journal entry, perform 3 acts of kindness, exercise for 20 minutes, and meditate for 15 minutes.
+> The Teamship app is ...
 
-**Read more about the Well app on [the project homepage]().**
+**Read more about the Teamship app on [the project homepage]().**
 
 # 📒 Wiki
 
@@ -89,7 +87,7 @@ This project repository has [a great wiki](https://github.com/yczar/teamship-flu
 
 # 👨‍💻 Tech stack
 
-Here's a brief high-level overview of the tech stack the Well app uses:
+Here's a brief high-level overview of the tech stack the Teamship app uses:
 
 - This project uses the [Flutter app development framework](https://flutter.dev/). Flutter is a cross-platform hybrid app development platform which allows us to use a single codebase for apps on mobile, desktop, and the web.
 - For persistent storage (database), the app uses the [Hive](https://hivedb.dev/) package which allows the app to create a custom storage schema and save it to a local database.
@@ -101,26 +99,26 @@ For more information on the technologies that power the Team Ship, check out the
 
 # ✍️ Contributing
 
-Interested in contributing to the Well app project? Thanks so much for your interest! We are always looking for improvements to the project and contributions from open-source developers are greatly appreciated.
+Interested in contributing to the Teamship app project? Thanks so much for your interest! We are always looking for improvements to the project and contributions from open-source developers are greatly appreciated.
 
 If you have a contribution in mind, please check out our [Contribution Guide](https://github.com/Yczar/teamship-flutter/wiki/Contribution-Guide) for information on how to do so. Also, make sure you read our [Code of Conduct](https://github.com/Yczar/teamship-flutter/wiki/Code-of-Conduct) to foster an encouraging sense of community.
 
 # 🌟 Spread the word!
 
-If you want to say thank you and/or support active development of the Well app:
+If you want to say thank you and/or support active development of the Teamship app:
 
 - Add a GitHub Star to the project!
 - Tweet about the project on your Twitter!
     <!-- - Tag [@colegawin\_](https://twitter.com/colegawin_) and/or `#thewellapp` -->
   <!-- - Leave us a review [on the iOS App Store](https://apps.apple.com/us/app/well-reboot-your-mindset/id1573357406)! -->
 
-Thanks so much for your interest in growing the reach of the Well app!
+Thanks so much for your interest in growing the reach of the Teamship app!
 
 <!-- _**PS:** consider sponsoring me ([Cole Gawin](https://colegaw.in)) to continue the development of this project on [BuyMeACoffee](https://buymeacoffee.com/colegawin) :)_ -->
 
 # ⚠️ License
 
-The Well app is free and open-source software licensed under the GNU General Public License v3.0.
+The Teamship app is free and open-source software licensed under the GNU General Public License v3.0.
 
 <!-- All designs were created by [Cole Gawin](https://github.com/chroline) and distributed under Creative Commons license (CC BY-SA 4.0 International). -->
 
